@@ -1,192 +1,191 @@
 #u_all
-units
+單位
 
 #u_porco
-Porco
+雄豬
 
 #u_sow
-Sow
+母豬
 
 #u_piglet
-Piglet
+幼豬
 
 #u_oldpig
-Oldpig
+老豬
 
 #u_warrior
-Warrior
+勇士
 
 #u_axepig
-Axepig
+斧兵
 
 #u_swordpig
-Swordpig
+劍兵
 
 #u_swordboar
-Swordboar
+重裝劍兵
 
 #u_porcus
-Porcus
+方陣兵
 
 #u_snout
-Snout
+短矛兵
 
 #u_spearpig
-Spearpig
+長矛兵
 
 #u_hoplite
-Hoplite
+方陣長槍兵
 
 #u_immortal
-Immortal
+長生軍
 
 #u_voulger
-Voulger
+戟兵
 
 #u_warhog
-Warhog
+重裝戟兵
 
 #u_battleswine
-Battleswine
+雙手劍兵
 
 #u_baconeer
-Baconeer
+重裝雙手劍兵
 
 #u_martelsnout
-Martelsnout
+重裝戰錘兵
 
 #u_javelin
-Javelineer
+標槍手
 
 #u_bowpig
-Bowpig
+弓兵
 
 #u_longbowpig
-Longbowpig
+長弓兵
 
 #u_crossbowpig
-Crossbowpig
+十字弩兵
 
 #u_horsepig
-Horsepig
+騎手
 
 #u_cataphract
-Cataphract
+鐵甲騎兵
 
 #u_pigatarms
-Pig-at-arms
+重型騎士
 
 #u_mntdarcher
-Horsebow
+弓騎兵
 
 #u_camelpig
-Camelpig
+駱駝騎兵
 
 #u_camephract
-Camephract
+重裝駱駝騎兵
 
 #u_camelier
-Saladin
+重型駱駝騎士
 
 #u_camelbow
-Camelbow
+駱駝弓騎兵
 
 #u_stomper
-Stomper
+象兵
 
 #u_cubiphant
-Cubiphant
+重裝象兵
 
 #u_crusher
-Crusher
+猛瑪象兵
 
 #u_megaphant
-Megaphant
+重型猛瑪象兵
 
 #u_killerrabbit
-No ordinary rabbit
+殺手兔
 
 #u_porkoderthal1
-Porkoderthal
+蠻族豬
 
 #u_horse
-Horse
+馬
 
 #u_elephant
-Elephant
+象
 
 #u_mammoth
-Mammoth
+猛瑪象
 
 #u_dog
-Dog
+狗
 
 #u_sheep
-Sheep
+羊
 
 #u_rabbit
 Rabbit
 
 #u_deer
-Deer
+鹿
 
 #u_cow
-Cow
+牛
 
 #u_buffalo
-Buffalo
+水牛
 
 #u_capybara
-Capybara
+水豚
 
 #u_camel
-Camel
+駱駝
 
 #u_goat
-Goat
+山羊
 
 #u_chicken
-Chicken
+雞
 
 #u_llama
-Llama
+羊駝
 
 #u_ostrich
-Ostrich
+駝鳥
 
 #u_fish
-Fish
+魚
 
 #u_crow
-Crow
+烏鴉
 
 #u_bird
-Bird
+鳥
 
 #u_parrot
-Parrot
+鸚鵡
 
 #u_sparrow
-Sparrow
+麻雀
 
 #u_wolf
-Wolf
+狼
 
 #u_bear
-Bear
+熊
 
 #u_pitsotl
-Pitsotl
+黑曜石矛手
 
 #u_eaglewarrior
-Eagle warrior
+鷹戰士
 
 #u_wolfwarrior
-Wolf warrior
+狼戰士
 
 #u_bearserker
-Manbearpig
+熊戰士
 
 #u_rockthrower
-Rock thrower
-
+投石手
